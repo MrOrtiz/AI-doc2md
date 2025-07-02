@@ -1,0 +1,5 @@
+unstructured[local-inference]
+ebooklib
+python-docx
+pypandoc
+python-dotenv   # if you need API keys in the future
